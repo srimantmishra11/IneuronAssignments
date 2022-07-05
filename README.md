@@ -1,2 +1,2 @@
-# IneuronAssignments
-Here I upload Ineuron assignments.
+# FSDS Assignments
+Here I upload FSDS assignments.
